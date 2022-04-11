@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stephane.coqueret@gmail.com
+	name = stephane coqueret
